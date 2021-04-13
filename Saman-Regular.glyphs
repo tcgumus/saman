@@ -1,9 +1,7 @@
 {
 .appVersion = "113";
 DisplayStrings = (
-"tuna/space ça/gbreve lar/space gümü/scedilla e/space te/scedilla ekkür/space ederiz./space çok/space be/gbreve endik./space eline/space sa/gbreve l/idotless k\012\01220+5=65/space \0121234567890",
-"ô",
-"/ohungarumlaut"
+"tuna/space ça/gbreve lar/space gümü/scedilla e/space te/scedilla ekkür/space ederiz./space çok/space be/gbreve endik./space eline/space sa/gbreve l/idotless k\012\01220+5=65/space \0121234567890\012\012A/space UPM/space of/space 2816/space is/space great/space for/space Inter/space since/space that/space means/space that/space its/space cap/space height/space is/space exactly/space 2048/space units/space (64×/space 32-unit/space squares)/space and/space its/space x-height/space is/space 1536/space (48×/space 32-unit/space squares)/space which/space both/space makes/space the/space design/space easier/space (can/space deal/space with/space only/space integers,/space never/space any/space fractions,/space plus/space use/space a/space perfect/space grid)/space and/space it/space makes/space the/space target/space \"small/space size\"/space of/space 11dp/space a/space pixel-perfect/space match/space/emdash/space at/space 11px/space rasterization/space 1/space pixel/space is/space exactly/space 256/space units/space in/space the/space design!/space At/space 11dp/space with/space a/space 2x/space scaling/space factor/space 1/space pixel/space is/space 128/space units,/space 64/space units/space at/space a/space 3x/space scaling/space factor/space and/space so/space on./space This/space makes/space it/space feasible/space to/space really/space tune/space Inter/space for/space detailed/space rasterization."
 );
 copyright = "Copyright © 2021 by Tuna Çağlar Gümüş.";
 customParameters = (
