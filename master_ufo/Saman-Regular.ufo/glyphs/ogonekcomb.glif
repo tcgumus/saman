@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ogonekcomb" format="2">
+  <unicode hex="0328"/>
+  <outline>
+    <contour>
+      <point x="338" y="0" type="curve"/>
+      <point x="295" y="0"/>
+      <point x="251" y="0"/>
+      <point x="208" y="0" type="curve"/>
+      <point x="260" y="-160"/>
+      <point x="294" y="-173"/>
+      <point x="411" y="-211" type="curve"/>
+      <point x="438" y="-98" type="line"/>
+      <point x="359" y="-98"/>
+      <point x="333" y="-18"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>562</integer>
+    </dict>
+  </lib>
+</glyph>
