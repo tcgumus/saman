@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lslash" format="2">
-  <advance width="511"/>
+  <advance width="974"/>
   <unicode hex="0142"/>
   <outline>
-    <component base="l" xOffset="104"/>
-    <component base="slashshortcomb" xOffset="-48" yOffset="-16"/>
+    <component base="l" xOffset="272"/>
+    <component base="slashshortcomb" yScale="1.41729" xOffset="18" yOffset="-114"/>
   </outline>
   <lib>
     <dict>

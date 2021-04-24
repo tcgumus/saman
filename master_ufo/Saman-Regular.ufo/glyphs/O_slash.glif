@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Oslash" format="2">
-  <advance width="636"/>
+  <advance width="1226"/>
   <unicode hex="00D8"/>
   <outline>
     <component base="O"/>
-    <component base="slashlongcomb" xOffset="37"/>
+    <component base="slashlongcomb" xScale="1.26818" xOffset="26"/>
   </outline>
 </glyph>

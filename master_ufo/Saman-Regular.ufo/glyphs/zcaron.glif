@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zcaron" format="2">
-  <advance width="511"/>
+  <advance width="975"/>
   <unicode hex="017E"/>
   <outline>
     <contour>
-      <point x="288" y="385" type="line"/>
-      <point x="42" y="120" type="line"/>
-      <point x="218" y="120" type="line"/>
-      <point x="469" y="385" type="line"/>
+      <point x="553" y="771" type="line"/>
+      <point x="60" y="240" type="line"/>
+      <point x="413" y="240" type="line"/>
+      <point x="915" y="771" type="line"/>
     </contour>
     <contour>
-      <point x="43" y="500" type="line"/>
-      <point x="43" y="385" type="line"/>
-      <point x="469" y="385" type="line"/>
-      <point x="469" y="500" type="line"/>
+      <point x="62" y="1001" type="line"/>
+      <point x="62" y="771" type="line"/>
+      <point x="915" y="771" type="line"/>
+      <point x="915" y="1001" type="line"/>
     </contour>
     <contour>
-      <point x="469" y="0" type="move"/>
+      <point x="915" y="0" type="move"/>
     </contour>
     <contour>
-      <point x="43" y="120" type="line"/>
-      <point x="43" y="0" type="line"/>
-      <point x="469" y="0" type="line"/>
-      <point x="469" y="120" type="line"/>
+      <point x="62" y="240" type="line"/>
+      <point x="62" y="0" type="line"/>
+      <point x="915" y="0" type="line"/>
+      <point x="915" y="240" type="line"/>
     </contour>
-    <component base="caroncomb" xOffset="-50"/>
+    <component base="caroncomb" xOffset="-37"/>
   </outline>
 </glyph>

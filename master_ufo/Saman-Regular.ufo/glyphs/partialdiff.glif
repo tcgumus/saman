@@ -1,7 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="partialdiff" format="2">
-  <advance width="600"/>
+  <advance width="1308"/>
   <unicode hex="2202"/>
   <outline>
+    <contour>
+      <point x="563" y="1400" type="line"/>
+      <point x="1084" y="1400"/>
+      <point x="1128" y="109"/>
+      <point x="563" y="105" type="curve"/>
+      <point x="563" y="-155" type="line"/>
+      <point x="1437" y="-155"/>
+      <point x="1408" y="1659"/>
+      <point x="563" y="1659" type="curve"/>
+    </contour>
+    <contour>
+      <point x="961" y="414" type="curve"/>
+      <point x="995" y="653" type="line"/>
+      <point x="37" y="1202"/>
+      <point x="-223" y="-155"/>
+      <point x="563" y="-155" type="curve"/>
+      <point x="563" y="105" type="line"/>
+      <point x="83" y="104"/>
+      <point x="385" y="900"/>
+    </contour>
   </outline>
 </glyph>

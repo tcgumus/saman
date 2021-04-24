@@ -3,22 +3,22 @@
   <unicode hex="0302"/>
   <outline>
     <contour>
-      <point x="210" y="635" type="line"/>
-      <point x="287" y="534" type="line"/>
-      <point x="410" y="534" type="line"/>
-      <point x="312" y="635" type="line"/>
+      <point x="440" y="1299" type="line"/>
+      <point x="594" y="1101" type="line"/>
+      <point x="840" y="1101" type="line"/>
+      <point x="644" y="1299" type="line"/>
     </contour>
     <contour>
-      <point x="157" y="635" type="line"/>
-      <point x="90" y="536" type="line"/>
-      <point x="194" y="536" type="line"/>
-      <point x="312" y="635" type="line"/>
+      <point x="334" y="1299" type="line"/>
+      <point x="200" y="1101" type="line"/>
+      <point x="408" y="1101" type="line"/>
+      <point x="644" y="1299" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>500</integer>
+      <integer>1040</integer>
     </dict>
   </lib>
 </glyph>

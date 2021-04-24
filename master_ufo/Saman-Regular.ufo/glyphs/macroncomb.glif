@@ -3,16 +3,16 @@
   <unicode hex="0304"/>
   <outline>
     <contour>
-      <point x="192" y="674" type="line"/>
-      <point x="192" y="596" type="line"/>
-      <point x="474" y="596" type="line"/>
-      <point x="474" y="674" type="line"/>
+      <point x="200" y="1278" type="line"/>
+      <point x="200" y="1122" type="line"/>
+      <point x="764" y="1122" type="line"/>
+      <point x="764" y="1278" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>558</integer>
+      <integer>964</integer>
     </dict>
   </lib>
 </glyph>

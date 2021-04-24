@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Idieresis" format="2">
-  <advance width="504"/>
+  <advance width="960"/>
   <unicode hex="00CF"/>
   <outline>
-    <component base="I" xOffset="140"/>
-    <component base="dieresiscomb" yOffset="200"/>
+    <component base="I" xOffset="290"/>
+    <component base="dieresiscomb.case"/>
   </outline>
   <lib>
     <dict>
@@ -17,14 +17,6 @@
           <integer>0</integer>
           <key>name</key>
           <string>I</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>dieresiscomb</string>
         </dict>
       </array>
     </dict>

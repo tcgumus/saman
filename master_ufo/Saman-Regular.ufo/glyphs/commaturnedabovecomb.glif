@@ -3,26 +3,26 @@
   <unicode hex="0312"/>
   <outline>
     <contour>
-      <point x="135" y="577" type="line"/>
+      <point x="135" y="695" type="line"/>
       <point x="135" y="459" type="line"/>
-      <point x="252" y="459" type="line"/>
-      <point x="252" y="577" type="line"/>
+      <point x="369" y="459" type="line"/>
+      <point x="369" y="695" type="line"/>
     </contour>
     <contour>
-      <point x="215" y="700" type="line"/>
-      <point x="157" y="700"/>
-      <point x="136" y="649"/>
-      <point x="135" y="577" type="curve"/>
-      <point x="189" y="577" type="line"/>
-      <point x="189" y="649"/>
-      <point x="200" y="668"/>
-      <point x="215" y="668" type="curve"/>
+      <point x="295" y="941" type="line"/>
+      <point x="179" y="941"/>
+      <point x="137" y="839"/>
+      <point x="135" y="695" type="curve"/>
+      <point x="243" y="695" type="line"/>
+      <point x="243" y="839"/>
+      <point x="265" y="877"/>
+      <point x="295" y="877" type="curve"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>600</integer>
+      <integer>1200</integer>
     </dict>
   </lib>
 </glyph>

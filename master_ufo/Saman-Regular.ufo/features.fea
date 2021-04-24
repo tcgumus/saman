@@ -48,6 +48,6 @@ table GDEF {
   GlyphClassDef
     , # Base
     , # Liga
-    [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb commaturnedabovecomb commaaccentcomb cedillacomb ogonekcomb strokeshortcomb strokelongcomb slashshortcomb slashlongcomb], # Mark
+    [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb commaturnedabovecomb commaaccentcomb cedillacomb ogonekcomb strokeshortcomb strokelongcomb slashshortcomb slashlongcomb dieresiscomb.case dotaccentcomb.case gravecomb.case circumflexcomb.case caroncomb.case tildecomb.case macroncomb.case], # Mark
     ;
 } GDEF;

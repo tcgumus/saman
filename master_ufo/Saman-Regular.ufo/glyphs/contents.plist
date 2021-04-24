@@ -234,6 +234,10 @@
     <string>abreve.glif</string>
     <key>acircumflex</key>
     <string>acircumflex.glif</string>
+    <key>acute</key>
+    <string>acute.glif</string>
+    <key>acute.case</key>
+    <string>acute.case.glif</string>
     <key>acutecomb</key>
     <string>acutecomb.glif</string>
     <key>adieresis</key>
@@ -288,6 +292,8 @@
     <string>cacute.glif</string>
     <key>caroncomb</key>
     <string>caroncomb.glif</string>
+    <key>caroncomb.case</key>
+    <string>caroncomb.case.glif</string>
     <key>ccaron</key>
     <string>ccaron.glif</string>
     <key>ccedilla</key>
@@ -300,6 +306,8 @@
     <string>cent.glif</string>
     <key>circumflexcomb</key>
     <string>circumflexcomb.glif</string>
+    <key>circumflexcomb.case</key>
+    <string>circumflexcomb.case.glif</string>
     <key>colon</key>
     <string>colon.glif</string>
     <key>comma</key>
@@ -326,12 +334,16 @@
     <string>degree.glif</string>
     <key>dieresiscomb</key>
     <string>dieresiscomb.glif</string>
+    <key>dieresiscomb.case</key>
+    <string>dieresiscomb.case.glif</string>
     <key>divide</key>
     <string>divide.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
     <key>dotaccentcomb</key>
     <string>dotaccentcomb.glif</string>
+    <key>dotaccentcomb.case</key>
+    <string>dotaccentcomb.case.glif</string>
     <key>downArrow</key>
     <string>downA_rrow.glif</string>
     <key>e</key>
@@ -394,6 +406,8 @@
     <string>germandbls.glif</string>
     <key>gravecomb</key>
     <string>gravecomb.glif</string>
+    <key>gravecomb.case</key>
+    <string>gravecomb.case.glif</string>
     <key>greater</key>
     <string>greater.glif</string>
     <key>greaterequal</key>
@@ -458,6 +472,8 @@
     <string>less.glif</string>
     <key>lessequal</key>
     <string>lessequal.glif</string>
+    <key>liraTurkish</key>
+    <string>liraT_urkish.glif</string>
     <key>logicalnot</key>
     <string>logicalnot.glif</string>
     <key>lozenge</key>
@@ -468,6 +484,8 @@
     <string>m.glif</string>
     <key>macroncomb</key>
     <string>macroncomb.glif</string>
+    <key>macroncomb.case</key>
+    <string>macroncomb.case.glif</string>
     <key>minus</key>
     <string>minus.glif</string>
     <key>multiply</key>
@@ -632,6 +650,8 @@
     <string>three.glif</string>
     <key>tildecomb</key>
     <string>tildecomb.glif</string>
+    <key>tildecomb.case</key>
+    <string>tildecomb.case.glif</string>
     <key>trademark</key>
     <string>trademark.glif</string>
     <key>two</key>
