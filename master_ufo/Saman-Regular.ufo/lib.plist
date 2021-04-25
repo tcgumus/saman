@@ -4,6 +4,139 @@
   <dict>
     <key>com.schriftgestaltung.appVersion</key>
     <string>113</string>
+    <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
+    <array>
+      <string>3
+THE/space QUICK/space BROWN/space FOX/space JUMPS/space OVER/space THE/space LAZY/space DOG
+the/space quick/space brown/space fox/space jumps/space over/space the/space lazy/space dog
+Spacing
+nanbncndnenfngnhninjnknlnmnnonpnqnrnsntnunvnwnxnynzn
+HAHBHCHDHEHFHGHHIHJHKHLHMHNHOHPHQHRHSHTHUHVHWHXHYHZH
+0102030405060708090
+lower/space case//lower/space case
+aufkauf/space aufhalt/space aufbleib
+verixt/space auflassen/space 
+hoe/space auffassen
+le/space aufißt/space raufjagen/space f/idotless ne
+aufnden/space Tiefieger
+Stolos/space Muon/space Stoigel/space Ozier
+Raband/space Tuhöhle/space Sukopp/space 
+führen/space fördern/space fähre
+wegjagen/space Bargfeld
+kyrie/space afro/space arte/space axe/space luvwärts
+Gevatter/space wann/space 
+ever/space gewettet/space severe
+davon/space gewonnen/space down
+wichtig/space recken
+ndn/dcroat h/space/dcaron o/dcaron h
+/lcaron l/space/lcaron o/space d/lslash h
+Versal//Kleinbuchstaben
+Farbe/space Fest/space Firn/space Fjord/space Font
+Frau/space Fuß/space Fähre/space Förde/space Füße
+Rest/space Rohr/space Röhre/space Rymer
+Test/space Tod/space Tauf/space Tim/space Tja/space Turm
+Traum/space Tsara/space Twist/space Tyrol
+Tüte/space Töten/space Täter/space TéTêTèVeste/space Vogel/space VéVêVèVater/space Vijf/space Vlut/space Vulkan
+Vytautas/space Vroni/space Väter/space Vögel/space Vs/space Ws/space Vz/space Wz
+Weste/space Wolf/space Wüste/space Wörpe/space Wärter/space Waage/space Wiege/space Wlasta
+Wurst/space Wyhl/space Wrasen
+Yeats/space Yoni/space auf/space Yqem
+Yak/space Ybbs/space Yggdrasil/space Yps
+Ysop/space Ytong/space Yuma
+Versal//Versal
+ATK/space AVI/space AWL/space AYN/space LTK
+LVI/space LWL/space LYN/space/Lcaron V/space/Lcaron TH
+RTK/space TVI/space RWL/space RYN
+TABULA/space VATER/space WASSER
+YAKUZA/space FABEL/space PAPST
+UNÐE/space H/Dcroat 
+letter//punctuation
+Ich/space rufe:/space also/space komm;/space danke
+Somit:/space haben/space wir;/space hinauf:/space das
+Er/space will?/space Ich/space soll!/space Er/space kann
+hinauf!/space herauf?/space Su?/space Ka!
+¿Spanisch?/space ¡Natürlich!
+was?!/space wie!?/space was!!/space wie??
+Wer/space kann,/space kann./space Wer,/space der.
+Sauf,/space rauf./space Su,/space Ka./space Sag,/space sag.
+luv./space law./space my./space luv,/space law,/space my,
+(DAT)/space (fünf)/space (young)/space (u)
+(lall)/space (pas/space cinq)/space (gaz)/space (§)
+(jagen)/space (Jedermann)
+[greif]/space [jung]/space [JUT]/space [hohl]
+reif/quotedblleft/space ruf/quoteleft/space seif/quotedblleft/space auf*/space/space ho/quotedblleft 
+T./space S./space Eliot/space L./space W./space Dupont
+V./space K./space Smith/space P./space A./space Meier
+A./space Y./space Jones/space F./space R./space Miller
+X./space ä./space Schulze
+quotation/space mark
+/guilsinglleft/guilsinglright «»/quotedblbase/quotedblleft/quotedblright/quotesinglbase/quoteleft/quoteright 
+«habe/space recht»/space «die»
+»Wir«/space »Tim«/space »Viel«/space »Ybbs«
+«Wir»/space «Tim»/space «Viel»/space «Ybbs»
+»OUT«/space »MIV«/space »JAW«/space »AY«
+«OUT»/space «MIV»/space «JAW»/space «AY»
+/guilsinglright OUT/guilsinglleft/space/guilsinglright MIV/guilsinglleft/space/guilsinglright JAW/guilsinglleft/space/guilsinglright AY/guilsinglleft 
+/guilsinglleft OUT/guilsinglright/space/guilsinglleft MIV/guilsinglright/space/guilsinglleft JAW/guilsinglright/space/guilsinglleft AY/guilsinglright 
+/quotesinglbase ja/quoteleft/space/quotesinglbase Ja/quoteleft/space/quotedblbase ja/quotedblleft/space/quotedblbase Ja/quotedblleft/space/quotesinglbase ga/quoteleft/space/space/quotedblbase ga/quotedblleft 
+/quotedblbase Tag/quotedblleft/space/quotedblbase Vau/quotedblleft/space/quotedblbase Wal/quotedblleft/space/quotedblbase Yep/quotedblleft 
+/quotesinglbase Tag/quoteleft/space/quotesinglbase Vau/quoteleft/space/quotesinglbase Wal/quoteleft/space/quotesinglbase Yep/quoteleft 
+/quotedblleft Bus/quotedblright/space/quotedblleft Van/quotedblright/space/quotedblleft Jon/quotedblright/space/quotedblleft lone/quotedblright/space/quotedblleft Al/quotedblright 
+/quoteleft Bus/quotedblleft/space/quoteleft Van/quotedblleft/space/quoteleft Jon/quotedblleft/space/quoteleft lone/quotedblleft/space/quoteleft Al/quotedblleft 
+»/endash/space bei/space/endash «/space »/emdash/space und/space/emdash «/guilsinglright/endash/space bei/space/endash/guilsinglleft/space/guilsinglright/emdash/space und/space/emdash/guilsinglleft 
+«/endash/space bei/space/endash »/space «/emdash/space und/space/emdash »/guilsinglleft/endash/space bei/space/endash/guilsinglright/space/guilsinglleft/emdash/space und/space/emdash/guilsinglright 
+punctuation/space mark
+sic/space (!)/space ...,/space nun/space (?)/space .../space da
+hinauf/space ...;/space dahin/space ...:
+hinauf/space ...!/space hin/space ...?/space Toll/quotedblleft ,/space leg/quotedblleft .
+nun/space (...)/space und/space ([...]/space sein
+»sie«./space »das«,/space »an«;/space »ich«:
+«sie»./space «das»,/space «an»;/space «ich»:
+»sie.«/space »das,«/space »an!«/space »ich?«
+«sie.»/space «das,»/space «an!»/space «ich?»
+/guilsinglright sie/guilsinglleft ./space/guilsinglright da/guilsinglleft ,/space/guilsinglright an/guilsinglleft ;/space/guilsinglright ich/guilsinglleft :/space 
+/guilsinglleft sie/guilsinglright ./space/guilsinglleft das/guilsinglright ,/space/guilsinglleft an/guilsinglright ;/space/guilsinglleft ich/guilsinglright :
+/guilsinglright sie./guilsinglleft/space/guilsinglright das,/guilsinglleft/space/guilsinglright an!/guilsinglleft/space/guilsinglright ich?/guilsinglleft 
+/guilsinglleft sie./guilsinglright/space/guilsinglleft das,/guilsinglright/space/guilsinglleft an!/guilsinglright/space/guilsinglleft ich?/guilsinglright 
+Mir!,/space das?,/space Ich!:/space Sie?:
+Mir!;/space das?;/space (»sie«)/space (/guilsinglright sie/guilsinglleft )
+nun/space/endash ,/space hier/space/endash .60/space nun/space/endash :/space hier/space/endash ;
+Eil-Tat-Van-Weal-Alk-
+auf/space 48/endash 67/space und/space 25/emdash 37/space von
+if/endash then/space well/emdash sure
+USA//Kanada/space SWF//Abend
+Gauß//Ohm/space 41//56/space den//die
+auf//fall/space den//im/space den//ärger
+da//leider/space auf//aber/space I//I
+etwa/space 50%/space haben/space 37°/space im
+£50/space und/space ¥20/space sind/space $30/space und/space/euro 60
+den/space §235/space sowie/space #35/space 
+4mal/space Seite/space 3f/space und/space 12.
+Der/space §45a/space in/space den/space 20ern
+figures
+00102030405060708090
+10112131415161718191
+20212232425262728292
+30313233435363738393
+40414243445464748494
+50515253545565758595
+60616263646566768696
+70717273747576778797
+80818283848586878898
+90919293949596979899
+.0.0.1.1.2.2.3.3.4.4.5.5.6.6.7.7.8.8.9.9.
+,0,0,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,
+:0:0:1:1:2:2:3:3:4:4:5:5:6:6:7:7:8:8:9:9:
+;0;0;1;1;2;2;3;3;4;4;5;5;6;6;7;7;8;8;9;9;
+von/space 18:30/space bis/space 20:15/space Uhr
+um/space 1995/space die/space 28184/space und
+und/space 8.8/space und/space 8,8/space da/space 8./endash 8.
+da/space 27./space es/space 38./space an/space 87,/space in/space 68,/space 674
+(96)/space (3)/space (5)/space (7)/space [96]/space [3/space [5/space [7
+2+3-4÷5-6±/greaterequal/lessequal &gt;&lt;
+(c)/space Friedrich/space Forssman</string>
+      <string>AÁ/Abreve ÂÄÀ/Amacron/Aogonek ÅÃÆBC/Cacute/Ccaron Ç/Cdotaccent DÐ/Dcaron/Dcroat EÉ/Ecaron ÊË/Edotaccent È/Emacron/Eogonek FG/Gbreve/Gcommaaccent/Gdotaccent H/Hbar IÍÎÏ/Idotaccent Ì/Imacron/Iogonek JK/Kcommaaccent L/Lacute/Lcaron/Lcommaaccent/Lslash MN/Nacute/Ncaron/Ncommaaccent/Eng ÑOÓÔÖÒ/Ohungarumlaut/Omacron ØÕ/OE PÞQR/Racute/Rcaron/Rcommaaccent S/Sacute/Scaron/Scedilla/Scommaaccent T/Tbar/Tcaron/Tcedilla/Tcommaaccent UÚÛÜÙ/Uhungarumlaut/Umacron/Uogonek/Uring VW/Wacute/Wcircumflex/Wdieresis/Wgrave XYÝ/Ycircumflex/Ydieresis/Ygrave Z/Zacute/Zcaron/Zdotaccent aá/abreve âäà/amacron/aogonek åãæbc/cacute/ccaron ç/cdotaccent dð/dcaron/dcroat eé/ecaron êë/edotaccent è/emacron/eogonek fg/gbreve/gcommaaccent/gdotaccent h/hbar i/idotless íîï/idotaccent ì/imacron/iogonek jk/kcommaaccent l/lacute/lcaron/lcommaaccent/lslash mn/nacute/ncaron/ncommaaccent/eng ñoóôöò/ohungarumlaut/omacron øõ/oe pþqr/racute/rcaron/rcommaaccent s/sacute/scaron/scedilla/scommaaccent ßt/tbar/tcaron/tcedilla/tcommaaccent uúûüù/uhungarumlaut/umacron/uogonek/uring vw/wacute/wcircumflex/wdieresis/wgrave xyý/ycircumflex/ydieresis/ygrave z/zacute/zcaron/zdotaccent 0123456789/fraction .,:;/ellipsis !¡?¿·/bullet *#///backslash (){}[]-/endash/emdash _/quotesinglbase/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright "'/space @&amp;¶§©®/trademark °|¦/dagger/daggerdbl ¢¤$/euro/liraTurkish £¥+/minus ×÷=/notequal &gt;&lt;/greaterequal/lessequal ±/approxequal -~¬^/emptyset/infinity/integral/product/summation/radical/partialdiff %/perthousand/upArrow/northEastArrow/rightArrow/southEastArrow/downArrow/southWestArrow/leftArrow/northWestArrow/leftRightArrow/upDownArrow/lozenge/dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/commaturnedabovecomb/commaaccentcomb/cedillacomb/ogonekcomb/strokeshortcomb/strokelongcomb/slashshortcomb/slashlongcomb ´/dieresiscomb.case/dotaccentcomb.case/gravecomb.case/circumflexcomb.case/caroncomb.case/tildecomb.case/macroncomb.case/acute.case</string>
+    </array>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
     <false/>
     <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>

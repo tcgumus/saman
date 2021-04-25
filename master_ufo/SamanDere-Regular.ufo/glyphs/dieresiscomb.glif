@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb" format="2">
+  <unicode hex="0308"/>
+  <outline>
+    <contour>
+      <point x="190" y="1070" type="curve" smooth="yes"/>
+      <point x="260" y="1070"/>
+      <point x="320" y="1128"/>
+      <point x="320" y="1202" type="curve" smooth="yes"/>
+      <point x="320" y="1274"/>
+      <point x="260" y="1330"/>
+      <point x="190" y="1330" type="curve" smooth="yes"/>
+      <point x="118" y="1330"/>
+      <point x="60" y="1274"/>
+      <point x="60" y="1202" type="curve" smooth="yes"/>
+      <point x="60" y="1128"/>
+      <point x="118" y="1070"/>
+    </contour>
+    <contour>
+      <point x="770" y="1070" type="curve" smooth="yes"/>
+      <point x="840" y="1070"/>
+      <point x="900" y="1128"/>
+      <point x="900" y="1202" type="curve" smooth="yes"/>
+      <point x="900" y="1274"/>
+      <point x="840" y="1330"/>
+      <point x="770" y="1330" type="curve" smooth="yes"/>
+      <point x="698" y="1330"/>
+      <point x="640" y="1274"/>
+      <point x="640" y="1202" type="curve" smooth="yes"/>
+      <point x="640" y="1128"/>
+      <point x="698" y="1070"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>960</integer>
+    </dict>
+  </lib>
+</glyph>
