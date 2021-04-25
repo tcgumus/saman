@@ -4,11 +4,6 @@
   <dict>
     <key>com.schriftgestaltung.appVersion</key>
     <string>113</string>
-    <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-    <array>
-      <string>/liraTurkish</string>
-      <string>/liraTurkish/liraTurkish/euro</string>
-    </array>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
     <false/>
     <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>

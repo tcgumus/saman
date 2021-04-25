@@ -286,6 +286,8 @@
       <integer>20</integer>
       <key>h</key>
       <integer>30</integer>
+      <key>i</key>
+      <integer>30</integer>
       <key>l</key>
       <integer>30</integer>
       <key>p</key>
@@ -319,6 +321,8 @@
       <integer>20</integer>
       <key>m</key>
       <integer>30</integer>
+      <key>n</key>
+      <integer>30</integer>
     </dict>
     <key>i</key>
     <dict>
@@ -326,6 +330,8 @@
       <integer>20</integer>
       <key>i</key>
       <integer>20</integer>
+      <key>m</key>
+      <integer>30</integer>
       <key>n</key>
       <integer>20</integer>
     </dict>
@@ -336,6 +342,8 @@
     </dict>
     <key>k</key>
     <dict>
+      <key>a</key>
+      <integer>-30</integer>
       <key>o</key>
       <integer>-40</integer>
       <key>public.kern2.0</key>
@@ -352,7 +360,7 @@
       <key>public.kern2.0</key>
       <integer>-30</integer>
       <key>t</key>
-      <integer>-30</integer>
+      <integer>-60</integer>
       <key>y</key>
       <integer>-40</integer>
     </dict>
@@ -372,7 +380,7 @@
       <key>l</key>
       <integer>30</integer>
       <key>n</key>
-      <integer>10</integer>
+      <integer>30</integer>
     </dict>
     <key>o</key>
     <dict>
