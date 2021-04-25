@@ -2,4 +2,6 @@
 
 ![saman announcement](https://github.com/tcgumus/saman/blob/main/saman_try_out.png)
 
-Saman Dere Font is a personal, free-time project with no funding. If you love it, consider supporting its development.
+Saman Dere font is a medium contrast sans serif specially created for web use. 
+The old newspaper headlines and characters inspired its model and are arranged in accordance with digital screens. It supports 42 languages and has more than 350 characters.
+This is a personal, free-time project with no funding. If you love it, consider supporting its development.
