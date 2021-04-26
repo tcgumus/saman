@@ -4,6 +4,25 @@
   <dict>
     <key>com.schriftgestaltung.appVersion</key>
     <string>113</string>
+    <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
+    <array>
+      <string>/dieresiscomb.case Ä</string>
+      <string>/dotaccentcomb.case/Cdotaccent</string>
+      <string>/dotaccentcomb.case/Edotaccent</string>
+      <string>m</string>
+      <string>w</string>
+      <string>/caroncomb/zcaron</string>
+      <string>65</string>
+      <string>/liraTurkish</string>
+      <string>/euro</string>
+      <string>/leftArrow</string>
+      <string>/rightArrow</string>
+      <string>/upArrow</string>
+      <string>/southWestArrow</string>
+      <string>/upArrow/northEastArrow/rightArrow/southEastArrow/downArrow/southWestArrow/leftArrow/northWestArrow/leftRightArrow/upDownArrow/lozenge</string>
+      <string>/summation</string>
+      <string>£</string>
+    </array>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
     <false/>
     <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
@@ -309,6 +328,7 @@
       <string>quotedbl</string>
       <string>quotesingle</string>
       <string>space</string>
+      <string>nbspace</string>
       <string>at</string>
       <string>ampersand</string>
       <string>paragraph</string>
@@ -464,6 +484,8 @@
       <string>uni0304</string>
       <key>macroncomb.case</key>
       <string>uni0304.case</string>
+      <key>nbspace</key>
+      <string>uni00A0</string>
       <key>ncommaaccent</key>
       <string>uni0146</string>
       <key>northEastArrow</key>

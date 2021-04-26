@@ -7,7 +7,7 @@
     <key>capHeight</key>
     <integer>1400</integer>
     <key>copyright</key>
-    <string>Copyright © 2021 by Tuna Caglar Gumus</string>
+    <string>Copyright 2021 Tuna Caglar Gumus (https://github.com/tcgumus/saman)</string>
     <key>descender</key>
     <integer>-400</integer>
     <key>familyName</key>
@@ -21,7 +21,7 @@
     <key>openTypeNameDesignerURL</key>
     <string>https://pikseladam.com/</string>
     <key>openTypeNameLicense</key>
-    <string>OPEN FONT LICENSE Version 1.1</string>
+    <string>SIL OPEN FONT LICENSE Version 1.1</string>
     <key>openTypeNameManufacturer</key>
     <string>Tuna Çağlar Gümüş</string>
     <key>openTypeNameManufacturerURL</key>
