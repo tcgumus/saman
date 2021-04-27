@@ -10,3 +10,5 @@ This is a personal, free-time project with no funding. If you love it, consider 
 This font is under SIL Open Font License 1.1 and you can use it freely in your products & projects - print or digital, commercial or otherwise. However, you can't sell it on your own. 
 
 **There is no build script right now. Please use release versions.**
+
+### Specimen is here: https://saman-dere-font.vercel.app/
