@@ -6,22 +6,14 @@
     <string>113</string>
     <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
     <array>
-      <string>/dieresiscomb.case Ä</string>
-      <string>/dotaccentcomb.case/Cdotaccent</string>
-      <string>/dotaccentcomb.case/Edotaccent</string>
-      <string>m</string>
-      <string>w</string>
-      <string>/caroncomb/zcaron</string>
-      <string>65</string>
-      <string>/liraTurkish</string>
-      <string>/euro</string>
-      <string>/leftArrow</string>
-      <string>/rightArrow</string>
-      <string>/upArrow</string>
-      <string>/southWestArrow</string>
-      <string>/upArrow/northEastArrow/rightArrow/southEastArrow/downArrow/southWestArrow/leftArrow/northWestArrow/leftRightArrow/upDownArrow/lozenge</string>
-      <string>/summation</string>
-      <string>£</string>
+      <string>WAREU
+nnonnoonoo/space nnannooaoo/space nnbnnooboo/space nncnnoocoo/space nndnnoodoo/space nnennooeoo/space nnfnnoofoo/space nngnnoogoo/space nnhnnoohoo/space nninnooioo/space nnjnnoojoo/space nnknnookoo/space nnlnnooloo/space nnmnnoomoo/space nnpnnoopoo/space nnqnnooqoo/space nnrnnooroo/space nnsnnoosoo/space nntnnootoo/space nnunnoouoo/space nnvnnoovoo/space nnwnnoowoo/space nnxnnooxoo/space nnynnooyoo/space nnznnoozoo
+
+HHOHHOOHOO/space HHAHHOOAOO/space HHBHHOOBOO/space HHCHHOOCOO/space HHDHHOODOO/space HHEHHOOEOO/space HHFHHOOFOO/space HHGHHOOGOO/space HHIHHOOIOO/space HHJHHOOJOO/space HHKHHOOKOO/space HHLHHOOLOO/space HHMHHOOMOO/space HHNHHOONOO/space HHPHHOOPOO/space HHQHHOOQOO/space HHRHHOOROO/space HHSHHOOSOO/space HHTHHOOTOO/space HHUHHOOUOO/space HHVHHOOVOO/space HHWHHOOWOO/space HHXHHOOXOO/space HHYHHOOYOO/space HHZHHOOZOO
+
+008088088/space 0010088188/space 0020088288/space 0030088388/space 0040088488/space 0050088588/space 0060088688/space 0070088788/space 0090088988</string>
+      <string>/quotedblbase</string>
+      <string>ß</string>
     </array>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
     <false/>

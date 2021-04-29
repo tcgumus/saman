@@ -1,0 +1,17 @@
+#!/bin/bash -e
+
+# create ttf, ufo & otf font files
+fontmake -g Saman-Regular.glyphs
+
+cd master_ttf
+# auto hinting set
+gftools fix-nonhinting SamanDere-Regular.ttf SamanDere-Regular-hint.ttf
+
+rm SamanDere-Regular.ttf
+mv SamanDere-Regular-hint.ttf SamanDere-Regular.ttf
+
+# fixes dsig values
+gftools fix-dsig SamanDere-Regular.ttf --autofix
+
+# fontbakery QA
+fontbakery check-googlefonts --verbose *Regular.ttf --html test.html

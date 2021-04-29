@@ -1,28 +1,10 @@
 {
 .appVersion = "113";
-DisplayStrings = (
-"/dieresiscomb.case Ä",
-"/dotaccentcomb.case/Cdotaccent",
-"/dotaccentcomb.case/Edotaccent",
-m,
-w,
-"/caroncomb/zcaron",
-"65",
-"/liraTurkish",
-"/euro",
-"/leftArrow",
-"/rightArrow",
-"/upArrow",
-"/southWestArrow",
-"/upArrow/northEastArrow/rightArrow/southEastArrow/downArrow/southWestArrow/leftArrow/northWestArrow/leftRightArrow/upDownArrow/lozenge",
-"/summation",
-"£"
-);
-copyright = "Copyright 2021 Tuna Caglar Gumus (https://github.com/tcgumus/saman)";
+copyright = "copyright (c) 2021 by tuna çağlar gümüş, with reserved font name 'saman dere'";
 customParameters = (
 {
 name = license;
-value = "SIL OPEN FONT LICENSE Version 1.1";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 }
 );
 date = "2021-04-11 18:32:49 +0000";
@@ -72,7 +54,7 @@ xHeight = 1000;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2021-04-25 10:01:48 +0000";
+lastChange = "2021-04-29 18:43:29 +0000";
 layers = (
 {
 layerId = "A833981A-68C5-4528-81CD-92C717829696";
@@ -2575,7 +2557,7 @@ unicode = 021A;
 },
 {
 glyphname = U;
-lastChange = "2021-04-20 22:45:27 +0000";
+lastChange = "2021-04-29 18:41:02 +0000";
 layers = (
 {
 layerId = "A833981A-68C5-4528-81CD-92C717829696";
@@ -6449,7 +6431,7 @@ unicode = 0219;
 },
 {
 glyphname = germandbls;
-lastChange = "2021-04-25 12:22:51 +0000";
+lastChange = "2021-04-29 18:53:52 +0000";
 layers = (
 {
 layerId = "A833981A-68C5-4528-81CD-92C717829696";
@@ -6457,32 +6439,44 @@ paths = (
 {
 closed = 1;
 nodes = (
-"320 -2 LINE",
-"320 1138 LINE",
-"570 1138 LINE SMOOTH",
-"700 1138 OFFCURVE",
-"700 818 OFFCURVE",
-"570 818 CURVE SMOOTH",
-"442 818 LINE",
-"442 558 LINE",
-"570 558 LINE SMOOTH",
-"700 558 OFFCURVE",
-"700 256 OFFCURVE",
-"570 256 CURVE SMOOTH",
-"442 258 LINE",
-"442 -2 LINE",
-"612 -2 LINE SMOOTH",
-"954.004 -2 OFFCURVE",
-"1027.741 497.951 OFFCURVE",
-"836.068 717.099 CURVE",
-"976.93 960.646 OFFCURVE",
-"887.49 1398 OFFCURVE",
-"570 1398 CURVE SMOOTH",
-"150 1398 LINE SMOOTH",
-"60 1398 OFFCURVE",
-"60 1318 OFFCURVE",
-"60 1260 CURVE SMOOTH",
-"60 -2 LINE"
+"320 0 LINE",
+"320 1140 LINE",
+"570 1140 LINE SMOOTH",
+"635 1140 OFFCURVE",
+"668 1060 OFFCURVE",
+"668 980 CURVE SMOOTH",
+"668 900 OFFCURVE",
+"635 820 OFFCURVE",
+"570 820 CURVE SMOOTH",
+"442 820 LINE",
+"442 560 LINE",
+"570 560 LINE SMOOTH",
+"635 560 OFFCURVE",
+"668 485 OFFCURVE",
+"668 409 CURVE SMOOTH",
+"668 334 OFFCURVE",
+"635 260 OFFCURVE",
+"570 260 CURVE SMOOTH",
+"442 260 LINE",
+"442 0 LINE",
+"612 0 LINE SMOOTH",
+"831 0 OFFCURVE",
+"940 205 OFFCURVE",
+"940 409 CURVE SMOOTH",
+"940 525 OFFCURVE",
+"905 640 OFFCURVE",
+"836 719 CURVE",
+"879 794 OFFCURVE",
+"901 886 OFFCURVE",
+"901 979 CURVE SMOOTH",
+"901 1190 OFFCURVE",
+"790 1400 OFFCURVE",
+"570 1400 CURVE SMOOTH",
+"150 1400 LINE SMOOTH",
+"60 1400 OFFCURVE",
+"60 1320 OFFCURVE",
+"60 1262 CURVE SMOOTH",
+"60 0 LINE"
 );
 }
 );
@@ -8672,13 +8666,10 @@ unicode = 201A;
 },
 {
 glyphname = quotedblbase;
-lastChange = "2021-04-19 19:07:17 +0000";
+lastChange = "2021-04-29 18:50:37 +0000";
 layers = (
 {
 components = (
-{
-name = comma;
-},
 {
 name = comma;
 }
@@ -9798,7 +9789,7 @@ unicode = 0024;
 },
 {
 glyphname = euro;
-lastChange = "2021-04-25 22:13:17 +0000";
+lastChange = "2021-04-29 18:59:10 +0000";
 layers = (
 {
 layerId = "A833981A-68C5-4528-81CD-92C717829696";
@@ -9806,46 +9797,46 @@ paths = (
 {
 closed = 1;
 nodes = (
-"299 744 LINE",
-"296 671 LINE",
-"125 671 LINE",
-"101 458 LINE",
-"308 458 LINE",
-"308 130 OFFCURVE",
+"299 706 LINE",
+"296 633 LINE",
+"125 633 LINE",
+"101 420 LINE",
+"308 420 LINE",
+"308 92 OFFCURVE",
 "537 0 OFFCURVE",
-"807 0 CURVE SMOOTH",
+"819 0 CURVE SMOOTH",
 "936 0 OFFCURVE",
-"1040 29 OFFCURVE",
-"1096 65 CURVE",
-"1097 325 LINE",
-"1043 274 OFFCURVE",
+"1040 55 OFFCURVE",
+"1096 91 CURVE",
+"1096 325 LINE",
+"1042 274 OFFCURVE",
 "944 227 OFFCURVE",
-"814 227 CURVE SMOOTH",
-"687 227 OFFCURVE",
-"562 290 OFFCURVE",
-"561 458 CURVE",
-"851 458 LINE",
-"875 671 LINE",
-"557 671 LINE",
-"557 744 LINE",
-"916 744 LINE",
-"941 959 LINE",
-"567 959 LINE",
-"567 1083 OFFCURVE",
-"703 1152 OFFCURVE",
-"831 1152 CURVE SMOOTH",
-"941 1152 OFFCURVE",
-"1048 1136 OFFCURVE",
+"819 227 CURVE SMOOTH",
+"695 227 OFFCURVE",
+"562 252 OFFCURVE",
+"561 420 CURVE",
+"851 420 LINE",
+"875 633 LINE",
+"557 633 LINE",
+"557 706 LINE",
+"916 706 LINE",
+"941 921 LINE",
+"567 921 LINE",
+"567 1045 OFFCURVE",
+"695 1147 OFFCURVE",
+"819 1152 CURVE SMOOTH",
+"949 1157 OFFCURVE",
+"989 1144 OFFCURVE",
 "1122 1088 CURVE",
-"1127 1314 LINE",
-"1037 1373 OFFCURVE",
-"944 1400 OFFCURVE",
-"814 1400 CURVE SMOOTH",
-"581 1400 OFFCURVE",
-"312 1280 OFFCURVE",
-"312 959 CURVE",
-"124 959 LINE",
-"100 744 LINE"
+"1121 1314 LINE",
+"1031 1373 OFFCURVE",
+"949 1405 OFFCURVE",
+"819 1400 CURVE SMOOTH",
+"582 1391 OFFCURVE",
+"312 1242 OFFCURVE",
+"312 921 CURVE",
+"124 921 LINE",
+"100 706 LINE"
 );
 }
 );
@@ -12240,6 +12231,7 @@ o = -40;
 };
 W = {
 "@MMK_R_0" = -90;
+A = -140;
 O = -30;
 a = -90;
 guilsinglleft = -60;

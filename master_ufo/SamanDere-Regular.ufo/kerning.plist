@@ -303,6 +303,8 @@
     </dict>
     <key>W</key>
     <dict>
+      <key>A</key>
+      <integer>-140</integer>
       <key>O</key>
       <integer>-30</integer>
       <key>a</key>
